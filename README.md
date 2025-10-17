@@ -18,7 +18,7 @@ To run the web application there are two options:
 
 Using the live link
 
-(Please note: The app is deployed on render.com on the FREE Tier which has certain limitation such as, After 15 minutes of inactivity the website will try to build again which will delay requests by 50 seconds or more. After 50 seconds the app will load and will function normally. 
+(Please note: The app is deployed on render.com on the FREE Tier which has certain limitation such as; after 15 minutes of inactivity the website will try to build again which will delay requests by 50 seconds or more. After 50 seconds the app will load and will function normally. 
 
 **click on the live link:**
 
