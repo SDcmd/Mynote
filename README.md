@@ -4,7 +4,9 @@ It allows users to **create**, **read**, **edit**, and **delete** notes
 
 ## Features 
 Users can create notes.
+
 Users can edit notes.
+
 Users can delete notes.
 
 
