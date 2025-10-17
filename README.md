@@ -48,7 +48,11 @@ SD-comp-book Mynote %
 
  9. Go to the backend folder and create a new " .env " file.
  10. In the " .env " file, copy and paste the credentials for MONGO_URI and PORT provided in the pptx file. 
- 11. After entering the credentials in the " .env " file, save the file. 
+ 11. After entering the credentials in the " .env " file, save the file.
+
+sample:
+![Screenshot 2025-10-17 at 6 46 34 PM](https://github.com/user-attachments/assets/2bd9238e-db22-4006-8fdb-d96412fab998)
+
 
 **Installing Dependencies** 
 
