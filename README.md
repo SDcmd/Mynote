@@ -37,7 +37,8 @@ click on the live link:
  5. Open the terminal in Visual Studio Code.
  6. In the terminal type: Git clone https://github.com/SDcmd/Mynote.git 
  7. Click on enter and wait for cloning to finish. 
- 8. After the cloning completes, go to the project's main directory. In the terminal type: cd Mynote 
+ 8. After the cloning completes, go to the project's main directory. In the terminal type: cd Mynote
+    
 sample:
 ```bash 
 SD-comp-book temptest % cd Mynote
