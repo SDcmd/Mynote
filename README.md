@@ -1,6 +1,6 @@
 # MyNote
 A full-stack **Notes Management Web Application** built with the **MERN stack** (MongoDB, Express, React, Node.js).  
-It allows users to **create**, **read**, **edit**, and **delete** notes
+It allows users to **create**, **read**, **edit**, and **delete** notes.
 
 ## Features 
 Users can create notes.
