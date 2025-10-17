@@ -27,9 +27,9 @@ click on the live link:
 
 **Prerequisites** 
 
- 1. Install Node.js (LTS version)
- 2. Install Git
- 3. Install Visual Studio Code (recommended)
+ 1. Install Node.js (LTS version).
+ 2. Install Git.
+ 3. Install Visual Studio Code (recommended).
 
 **Cloning the repository**
 
@@ -45,9 +45,9 @@ SD-comp-book Mynote %
 ```
 **Environment Variables**
 
- 9. Go to the backend folder and create a new .env file.
- 10. In the .env copy and paste the credentials for MONGO_URI and PORT provided in the pptx file. 
- 11. After entering the credentials in the .env file save the file. 
+ 9. Go to the backend folder and create a new " .env " file.
+ 10. In the " .env " file, copy and paste the credentials for MONGO_URI and PORT provided in the pptx file. 
+ 11. After entering the credentials in the " .env " file, save the file. 
 
 **Installing Dependencies** 
 
