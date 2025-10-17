@@ -71,7 +71,8 @@ SD-comp-book Mynote %
 [0] MongoDB Connected Successfully
 [0] Server started on PORT: 5001
 ```
-19. Copy the link "http://localhost:5173/" and paste it in a browser. 
+19. Copy the link "http://localhost:5173/" and paste it in a browser.
+20. Click Enter to start the application.
 
 
 
