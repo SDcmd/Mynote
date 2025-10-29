@@ -60,14 +60,14 @@ sample:
 
 **Installing Dependencies** 
 
- 12. In the terminal making sure the project's root directory is selected, type the command: ```bash npm install ```
+ 12. In the terminal making sure the project's root directory is selected, type the command: **npm install**
  13. Click Enter and wait for installation to complete.
- 14. In the termainal type: ```bash npm run build ```
+ 14. In the termainal type: **npm run build**
  15. Click Enter and wait for installion to complete.
 
  **Run the App**
 
- 16. In the terminal type: ```bash npm run dev ```
+ 16. In the terminal type: **npm run dev**
  17. Click Enter and wait for installation to complete.
  18. Success message is shown as:
 
